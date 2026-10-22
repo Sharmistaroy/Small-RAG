@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+pypdf
+pymupdf 
+langchain-text-splitters
+ipykernel
+lancedb
